@@ -1,2 +1,1 @@
-# deployment-lib
-Deployment library for Kubernetes
+# Kubernetes shortcuts
